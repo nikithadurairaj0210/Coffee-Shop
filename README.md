@@ -7,6 +7,9 @@ This command is used for install pip environment
 
 Install Django:
     ****pip install django****
-    
+
+Install **DB Browser for SQLite** for connecting database with django
+
 Run command:
     ****python manage.py runserver**** 
+
